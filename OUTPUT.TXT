@@ -1,0 +1,2 @@
+Desired Sequence: 111111111111
+Sequence Length: 12
